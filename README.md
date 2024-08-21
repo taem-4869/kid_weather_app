@@ -9,6 +9,7 @@ what's new?
 -learned API request
 -JSON parcing and dealing with the concept of mappers
 -learned dagger hilt and dependency injection
+-datastore preferences to save user city preferences
 -dealing with coil library to load images
 -Displaying dialogs
 -dealing with animations more
@@ -16,3 +17,5 @@ what's new?
 
 weak points?
 -passed deadline (taked double period)
+
+in the end : i guess i leaded by perfectionism in this project, hope a better self controle in the future
